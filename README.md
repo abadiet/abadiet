@@ -6,7 +6,7 @@ I'm a French engineering student at [ISAE-ENSMA](https://en.wikipedia.org/wiki/%
 
 ## [:robot: Distributed Computing *(2023)*](https://github.com/titofra/Distributed-Computing)
 
-Basic versatile C library for distributed computing. [Distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) refers to a network of computers working together to solve a problem or complete a task, instead of a single computer handling all the processing. The workload is divided among multiple machines, allowing for faster and more efficient processing.
+Basic versatile C library for distributed computing with dedicated os. [Distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) refers to a network of computers working together to solve a problem or complete a task, instead of a single computer handling all the processing. The workload is divided among multiple machines, allowing for faster and more efficient processing.
 
 <p align="center">
 	<a href="https://github.com/titofra/Distributed-Computing"><img src="https://github.com/titofra/Distributed-Computing/raw/main/resources/distributed_computing.png" width="700"></a>
