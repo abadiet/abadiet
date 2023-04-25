@@ -16,7 +16,7 @@ Basic versatile C library for distributed computing with dedicated os. [Distribu
 
 ## [:brain: Neuroevolution of augmenting topologies (NEAT) *(2022)*](https://github.com/titofra/NEAT)
 
-C library for evolving neural networks with NEAT. [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) is a machine learning technique used to evolve artificial neural networks. This algorithm is often used for complex tasks such as game playing and robotics, where traditional hand-designed neural networks may not be effective.
+C++ library for evolving neural networks with NEAT. [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) is a machine learning technique used to evolve artificial neural networks. This algorithm is often used for complex tasks such as game playing and robotics, where traditional hand-designed neural networks may not be effective.
 
 <p align="center">
 	<a href="https://github.com/titofra/NEAT"><img src="https://github.com/titofra/NEAT/raw/main/resources/network.png" width="700"></a>
