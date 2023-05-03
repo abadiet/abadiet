@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a French engineering student at [ISAE-ENSMA](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_de_m%C3%A9canique_et_d%27a%C3%A9rotechnique). My favorite fields are machine learning and computer graphics.
+I'm a French engineering student at [ISAE-ENSMA](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_de_m%C3%A9canique_et_d%27a%C3%A9rotechnique). My favorite fields are machine learning and neurorobotics.
 
 # Projects
 
