@@ -4,6 +4,16 @@ I'm a French engineering student at [ISAE-ENSMA](https://en.wikipedia.org/wiki/%
 
 # Projects
 
+## [:robot: Distributed Computing *(2023)*](https://github.com/titofra/Ensmasteel-2023-2024-Code)
+
+Code for the [Ensmasteel](https://github.com/Ensmasteel)'s robot which will be competing in the French Robotics Cup during the 2023-2024 season.
+
+<p align="center">
+	<a href="https://github.com/titofra/Ensmasteel-2023-2024-Code"><img src="https://github.com/titofra/Ensmasteel-2023-2024-Code/blob/main/resource/robot.png" width="700"></a>
+</p>
+
+<br>
+
 ## [:robot: Distributed Computing *(2023)*](https://github.com/titofra/Distributed-Computing)
 
 Basic versatile C library for distributed computing with dedicated os. [Distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) refers to a network of computers working together to solve a problem or complete a task, instead of a single computer handling all the processing. The workload is divided among multiple machines, allowing for faster and more efficient processing.
