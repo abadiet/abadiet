@@ -4,7 +4,7 @@ I'm a French engineering student at [ISAE-ENSMA](https://en.wikipedia.org/wiki/%
 
 # Projects
 
-## [:robot: Distributed Computing *(2023)*](https://github.com/titofra/Ensmasteel-2023-2024-Code)
+## [:trophy: Distributed Computing *(2023)*](https://github.com/titofra/Ensmasteel-2023-2024-Code)
 
 Code for the [Ensmasteel](https://github.com/Ensmasteel)'s robot which will be competing in the French Robotics Cup during the 2023-2024 season.
 
