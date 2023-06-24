@@ -4,6 +4,16 @@ I'm a French engineering student at [ISAE-ENSMA](https://en.wikipedia.org/wiki/%
 
 # Projects
 
+## [:brain: Polymorphic NeuroEvolution of Augmenting Topologies with Memory (PNEATM) *(2023)*](https://github.com/titofra/PNEATM)
+
+C++ library for evolving neural networks with a modified NEAT that allows any kind of data and that is able to access any previous data. [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) is a machine learning technique used to evolve artificial neural networks. This algorithm is often used for complex tasks such as game playing and robotics, where traditional hand-designed neural networks may not be effective.
+
+<p align="center">
+	<a href="https://github.com/titofra/PNEATM"><img src="https://github.com/titofra/PNEATM/raw/main/resources/network.png" width="700"></a>
+</p>
+
+<br>
+
 ## [:trophy: Ensmasteel's robot Code *(2023)*](https://github.com/titofra/Ensmasteel-2023-2024-Code)
 
 Code for the [Ensmasteel](https://github.com/Ensmasteel)'s robot which will be competing in the French Robotics Cup during the 2024 session.
