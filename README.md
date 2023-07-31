@@ -6,7 +6,7 @@ I'm a French engineering student at [ISAE-ENSMA](https://en.wikipedia.org/wiki/%
 
 ## [:brain: Polymorphic NeuroEvolution of Augmenting Topologies with Memory (PNEATM) *(2023)*](https://github.com/titofra/PNEATM)
 
-C++ library for evolving neural networks with an enhanced NEAT that allows any kind of data and that is able to access any previous data. PNEATM is a machine learning technique designed to evolve artificial neural networks. It offers several advantages such as handling various data types, supporting multiple data types simultaneously, utilizing multiple activation functions, dynamically evolving activation functions, and accessing previous processed data.
+C++ library for a machine learning technique designed to evolve artificial neural networks. PNEATM offers several advantages such as handling various data types, supporting multiple data types simultaneously, utilizing multiple activation functions, dynamically evolving activation functions, and accessing previous processed data.
 
 <p align="center">
 	<a href="https://github.com/titofra/PNEATM"><img src="https://github.com/titofra/PNEATM/raw/main/resources/network.png" width="700"></a>
