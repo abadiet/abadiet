@@ -45,7 +45,7 @@ C++ library for evolving neural networks with NEAT. [NEAT](https://en.wikipedia.
 <br>
 
 <p align="left">
-	<a href="mailto:titouan821@gmail.com">
+	<a href="mailto:abadie.titouan.o@gmail.com">
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 </p>
