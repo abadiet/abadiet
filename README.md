@@ -2,6 +2,8 @@
 
 I'm a French engineering student at [ISAE-ENSMA](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_de_m%C3%A9canique_et_d%27a%C3%A9rotechnique). My favorite fields are machine learning and neurorobotics.
 
+Compilation of the profiling tools and Linux commands that I frequently use: [tools 🛠️](https://github.com/titofra/tools).
+
 # Projects
 
 ## [:brain: Polymorphic NeuroEvolution of Augmenting Topologies with Memory (PNEATM) *(2023)*](https://github.com/titofra/PNEATM)
