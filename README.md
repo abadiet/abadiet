@@ -16,7 +16,7 @@ C++ library for a machine learning technique designed to evolve artificial neura
 
 <br>
 
-## [💻 Ensma SPace Project website *(2023)*](https://github.com/titofra/ESP-website)
+## [💻 Ensma Space Project website *(2023)*](https://github.com/titofra/ESP-website)
 
 Ensma Space Project website - Dependency-free website in pure html/css/js.
 
