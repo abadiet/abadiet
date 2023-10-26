@@ -8,7 +8,7 @@ Compilation of the profiling tools and Linux commands that I frequently use: [to
 
 ## [:brain: Polymorphic NeuroEvolution of Augmenting Topologies with Memory (PNEATM) *(2023)*](https://github.com/titofra/PNEATM)
 
-C++ library for a machine learning technique designed to evolve artificial neural networks. PNEATM offers several advantages such as handling various data types, supporting multiple data types simultaneously, utilizing multiple activation functions, dynamically evolving activation functions, and accessing previous processed data.
+Pure C++ library for a machine learning technique designed to evolve artificial neural networks. PNEATM offers several advantages such as handling various data types, supporting multiple data types simultaneously, utilizing multiple activation functions, dynamically evolving activation functions, and accessing previous processed data.
 
 <p align="center">
 	<a href="https://github.com/titofra/PNEATM"><img src="https://github.com/titofra/PNEATM/raw/main/resources/network.png" width="700"></a>
