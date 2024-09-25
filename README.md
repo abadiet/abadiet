@@ -8,7 +8,7 @@ Compilation of the profiling tools and Linux commands that I frequently use: [to
 
 # Projects available on GitHub
 
-## [:brain: GarminServerLess (GSL) *(2024)*](https://github.com/abadiet/GarminServerLess)
+## [🥷 GarminServerLess (GSL) *(2024)*](https://github.com/abadiet/GarminServerLess)
 
 GSL is a Python library to fully use Garmin devices without relying on Garmin servers. GSL is heavily based on Garmin Express (GE), a Windows and macOS software provided by Garmin that allows you to update, sync, and register your devices. GE is an old software with no significant obfuscation or high-security protections, which is the reason why I reverse-engineered it instead of another Garmin application.
 
