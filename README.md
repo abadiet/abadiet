@@ -8,6 +8,10 @@ Compilation of the profiling tools and Linux commands that I frequently use: [to
 
 # Projects available on GitHub
 
+## [📷 RICOH THETA Vision *(2024)*](https://github.com/abadiet/RICOH-THETA-Vision)
+
+A fast C USB streamer for the Ricoh Theta (a 360° camera) to enable machine vision during the French Robotics Cup. This includes converting the frames to a known format and apply a projection to face the distortions as it is a 360° camera.
+
 ## [🥷 GarminServerLess (GSL) *(2024)*](https://github.com/abadiet/GarminServerLess)
 
 GSL is a Python library to fully use Garmin devices without relying on Garmin servers. GSL is heavily based on Garmin Express (GE), a Windows and macOS software provided by Garmin that allows you to update, sync, and register your devices. GE is an old software with no significant obfuscation or high-security protections, which is the reason why I reverse-engineered it instead of another Garmin application.
