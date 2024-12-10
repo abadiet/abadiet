@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a French MSc student in Aeraunotics and Space, specializing in Computer Science for Avionics at [ISAE-ENSMA](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_de_m%C3%A9canique_et_d%27a%C3%A9rotechnique).
+I'm a French MSc student in Aeraunotics and Space, specializing in Embedded Systems at [ISAE-ENSMA](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_de_m%C3%A9canique_et_d%27a%C3%A9rotechnique).
 
 [Go to my portfolio →](https://tabadie.eu)
 
