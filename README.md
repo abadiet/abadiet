@@ -8,9 +8,19 @@ Compilation of the profiling tools and Linux commands that I frequently use: [to
 
 # Projects available on GitHub
 
+## [⚙️ Metal Engine *(2025)*](https://github.com/abadiet/Metal-Engine)
+
+A simple C++ Apple Metal 3D engine based on a Model-View-Controller pattern.
+
+https://github.com/user-attachments/assets/024d63b2-84ef-4215-ae6d-fe437ae702c9
+
+<br>
+
 ## [📷 RICOH THETA Vision *(2024)*](https://github.com/abadiet/RICOH-THETA-Vision)
 
 A fast C USB streamer for the Ricoh Theta (a 360° camera) to enable machine vision during the French Robotics Cup. This includes converting the frames to a known format and apply a projection to face the distortions as it is a 360° camera.
+
+<br>
 
 ## [🥷 GarminServerLess (GSL) *(2024)*](https://github.com/abadiet/GarminServerLess)
 
