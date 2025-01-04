@@ -12,7 +12,9 @@ Compilation of the profiling tools and Linux commands that I frequently use: [to
 
 A simple C++ Apple Metal 3D engine based on a Model-View-Controller pattern.
 
-https://github.com/user-attachments/assets/024d63b2-84ef-4215-ae6d-fe437ae702c9
+<p align="center">
+	<a href="https://github.com/abadiet/Metal-Engine"><img src="https://github.com/abadiet/Metal-Engine/blob/main/resources/beta-01-04-2025.png" width="700"></a>
+</p>
 
 <br>
 
