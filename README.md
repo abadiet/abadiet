@@ -4,9 +4,15 @@ I'm a French MSc student in Aeraunotics and Space, specializing in Embedded Syst
 
 [Go to my portfolio →](https://tabadie.eu)
 
-Compilation of the profiling tools and Linux commands that I frequently use: [tools 🛠️](https://github.com/abadiet/tools).
-
 # Projects available on GitHub
+
+## [📷 Vision CDFR *(2025)*](https://github.com/abadiet/Vision-CDFR)
+
+Optimized C++ implementation for real-time machine vision in the French Robotics Cup.
+
+<p align="center">
+	<a href="https://github.com/abadiet/Vision-CDFR"><img src="https://github.com/abadiet/Vision-CDFR/blob/bdbf1323acde8e1ba920f9adcdf4916d1043b7df/resources/demo.gif" width="700"></a>
+</p>
 
 ## [⚙️ Metal Engine *(2025)*](https://github.com/abadiet/Metal-Engine)
 
@@ -20,13 +26,13 @@ A simple C++ Apple Metal 3D engine based on a Model-View-Controller pattern.
 
 ## [📷 RICOH THETA Vision *(2024)*](https://github.com/abadiet/RICOH-THETA-Vision)
 
-A fast C USB streamer for the Ricoh Theta (a 360° camera) to enable machine vision during the French Robotics Cup. This includes converting the frames to a known format and apply a projection to face the distortions as it is a 360° camera.
+Optimized C USB streamer for the Ricoh Theta (a 360° camera) for real-time machine vision in the French Robotics Cup.
 
 <br>
 
 ## [🥷 GarminServerLess (GSL) *(2024)*](https://github.com/abadiet/GarminServerLess)
 
-GSL is a Python library to fully use Garmin devices without relying on Garmin servers. GSL is heavily based on Garmin Express (GE), a Windows and macOS software provided by Garmin that allows you to update, sync, and register your devices. GE is an old software with no significant obfuscation or high-security protections, which is the reason why I reverse-engineered it instead of another Garmin application.
+GSL provides an open-source alternative to Garmin's proprietary services, derived from low-level reverse engineering Garmin Express.
 
 <p align="center">
 	<a href="https://github.com/abadiet/GarminServerLess"><img src="https://github.com/abadiet/GarminServerLess/blob/main/resources/logo.png" width="400"></a>
