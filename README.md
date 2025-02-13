@@ -11,7 +11,7 @@ I'm a French MSc student in Aeraunotics and Space, specializing in Embedded Syst
 Optimized C++ implementation for real-time machine vision in the French Robotics Cup.
 
 <p align="center">
-	<a href="https://github.com/abadiet/Vision-CDFR"><img src="https://github.com/abadiet/Vision-CDFR/blob/bdbf1323acde8e1ba920f9adcdf4916d1043b7df/resources/demo.gif" width="700"></a>
+	<a href="https://github.com/abadiet/Vision-CDFR"><img src="https://github.com/abadiet/Vision-CDFR/blob/main/resources/demo.gif" width="700"></a>
 </p>
 
 ## [⚙️ Metal Engine *(2025)*](https://github.com/abadiet/Metal-Engine)
