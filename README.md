@@ -6,9 +6,13 @@ I'm a French Software Engineer Intern at ArianeGroup, working on developing a si
 
 # Projects available on GitHub
 
+## [🔍 SXEval *(2025)*](https://github.com/abadiet/SXEval)
+
+A generic s-expression interpreter library.
+
 ## [📷 Vision CDFR *(2025)*](https://github.com/abadiet/Vision-CDFR)
 
-Optimized C++ implementation for real-time machine vision in the French Robotics Cup.
+An optimized C++ implementation for real-time machine vision in the French Robotics Cup.
 
 <p align="center">
 	<a href="https://github.com/abadiet/Vision-CDFR"><img src="https://github.com/abadiet/Vision-CDFR/blob/main/resources/demo.gif" width="700"></a>
