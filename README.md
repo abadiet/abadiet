@@ -8,7 +8,7 @@ I'm a French Software Engineer Intern at ArianeGroup, working on developing a si
 
 ## [🔍 SXEval *(2025)*](https://github.com/abadiet/SXEval)
 
-A very fast, generic s-expression interpreter library (5x faster than the other libs, ~1500x faster in its optimized mode...).
+A very fast, generic s-expression compiler & interpreter library (400x faster than GNU Guile).
 
 ## [📷 Vision CDFR *(2025)*](https://github.com/abadiet/Vision-CDFR)
 
