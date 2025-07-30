@@ -10,6 +10,10 @@ I'm a French Software Engineer Intern at ArianeGroup, working on developing a si
 
 A very fast, generic s-expression compiler & interpreter library (400x faster than GNU Guile).
 
+<p align="center">
+	<a href="https://github.com/abadiet/SXEval"><img src="https://github.com/abadiet/SXEval/blob/v1.0/resources/inbrief.png" width="700"></a>
+</p>
+
 ## [📷 Vision CDFR *(2025)*](https://github.com/abadiet/Vision-CDFR)
 
 An optimized C++ implementation for real-time machine vision in the French Robotics Cup.
