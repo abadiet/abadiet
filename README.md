@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-I'm a French Software Engineer Intern at ArianeGroup, working on developing a simulation kernel.
+I'm a French Embedded Systems Engineer at RIVR, working on developing a simulation kernel.
 
 [Go to my portfolio →](https://tabadie.eu)
 
 # Projects available on GitHub
+
+## [📁 FNIFI *(2025)*](https://github.com/abadiet/FNIFI)
+
+A fast and non-intrusive file indexing library.
 
 ## [🔍 SXEval *(2025)*](https://github.com/abadiet/SXEval)
 
