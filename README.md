@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I'm a French Embedded Systems Engineer at RIVR, working on developing a simulation kernel.
-
 [Go to my portfolio →](https://tabadie.eu)
 
 # Projects available on GitHub
