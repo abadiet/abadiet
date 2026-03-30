@@ -8,7 +8,7 @@ A fast and non-intrusive file indexing library.
 
 ## [🔍 SXEval *(2025)*](https://github.com/abadiet/SXEval)
 
-A very fast, generic s-expression compiler & interpreter library (400x faster than GNU Guile).
+A very fast, generic s-expression JIT conpiler library (400x faster than GNU Guile).
 
 <p align="center">
 	<a href="https://github.com/abadiet/SXEval"><img src="https://github.com/abadiet/SXEval/blob/v1.0/resources/inbrief.png" width="700"></a>
@@ -16,7 +16,7 @@ A very fast, generic s-expression compiler & interpreter library (400x faster th
 
 ## [📷 Vision CDFR *(2025)*](https://github.com/abadiet/Vision-CDFR)
 
-An optimized C++ implementation for real-time machine vision in the French Robotics Cup.
+C++ algorithm for real-time machine vision in the French Robotics Cup.
 
 <p align="center">
 	<a href="https://github.com/abadiet/Vision-CDFR"><img src="https://github.com/abadiet/Vision-CDFR/blob/main/resources/demo.gif" width="700"></a>
